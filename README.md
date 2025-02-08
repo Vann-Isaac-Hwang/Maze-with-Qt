@@ -5,3 +5,4 @@
 * ### Solve a maze with DFS or BFS algorithms.
 * ### Save a randomly generated maze to *.iskmaz* file.
 * ### Import a maze of *.iskmaz* format.
+![image](https://github.com/Vann-Isaac-Hwang/Maze-with-Qt/blob/main/classes.png)
