@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/96f96f46-24f7-496c-ba57-febd0d2b847c)# **Exploring a Maze**
+# **Exploring a Maze**
 #### **Intro:** A simple maze generating and solving program. (A solution for my Data Structure and Algorithm course)
 ## Functions
 * ### Generate a random maze with DFS, Prim, or Kruskal algorithms
